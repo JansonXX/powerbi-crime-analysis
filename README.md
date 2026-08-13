@@ -40,3 +40,12 @@ The Power BI dashboard provides interactive views of crime patterns, victimisati
 ## Key Insights
 
 Key findings from the analysis will be documented here based on the dashboard results.
+## Project Structure
+
+```text
+powerbi-crime-analysis/
+├── Powerbi/
+│   └── Crime_Analysis.pbix
+├── README.md
+├── data_model.jpg
+└── overview.jpg
