@@ -49,3 +49,13 @@ powerbi-crime-analysis/
 ├── README.md
 ├── data_model.jpg
 └── overview.jpg
+## Skills Demonstrated
+
+- Power BI Dashboard Development
+- Dimensional Data Modelling
+- DAX Measures
+- Data Visualisation
+- KPI Development
+- Crime Rate Analysis
+- Geographic Analysis
+- Data Interpretation
